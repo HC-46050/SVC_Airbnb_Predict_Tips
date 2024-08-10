@@ -1,5 +1,4 @@
 pip install --upgrade pip
-streamlit==1.37.1
+streamlit
 pandas==1.5.2
 scikit-learn==1.2.0
-setuptools
